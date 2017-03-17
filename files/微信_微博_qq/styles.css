@@ -1,0 +1,145 @@
+﻿body {
+  margin:0px;
+  background-image:none;
+  position:static;
+  left:auto;
+  width:375px;
+  margin-left:0;
+  margin-right:0;
+  text-align:left;
+}
+#base {
+  position:absolute;
+  z-index:0;
+}
+#u1040_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:376px;
+  height:648px;
+}
+#u1040 {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:375px;
+  height:647px;
+}
+#u1041 {
+  border-width:0px;
+  position:absolute;
+  left:2px;
+  top:316px;
+  width:371px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u1042_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:376px;
+  height:51px;
+}
+#u1042 {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:375px;
+  height:50px;
+  font-family:'STHeitiSC-Light', 'Heiti SC Light', 'Heiti SC';
+  font-weight:200;
+  font-style:normal;
+  font-size:20px;
+}
+#u1043 {
+  border-width:0px;
+  position:absolute;
+  left:2px;
+  top:14px;
+  width:371px;
+  word-wrap:break-word;
+}
+#u1044_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:69px;
+  height:35px;
+}
+#u1044 {
+  border-width:0px;
+  position:absolute;
+  left:12px;
+  top:8px;
+  width:68px;
+  height:34px;
+  font-family:'STHeitiSC-Light', 'Heiti SC Light', 'Heiti SC';
+  font-weight:200;
+  font-style:normal;
+  font-size:14px;
+}
+#u1045 {
+  border-width:0px;
+  position:absolute;
+  left:2px;
+  top:10px;
+  width:64px;
+  word-wrap:break-word;
+}
+#u1046_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:69px;
+  height:35px;
+}
+#u1046 {
+  border-width:0px;
+  position:absolute;
+  left:295px;
+  top:8px;
+  width:68px;
+  height:34px;
+  font-family:'STHeitiSC-Light', 'Heiti SC Light', 'Heiti SC';
+  font-weight:200;
+  font-style:normal;
+  font-size:14px;
+}
+#u1047 {
+  border-width:0px;
+  position:absolute;
+  left:2px;
+  top:10px;
+  width:64px;
+  word-wrap:break-word;
+}
+#u1048 {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:80px;
+  width:375px;
+  height:35px;
+}
+#u1048_input {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:375px;
+  height:35px;
+  font-family:'STHeitiSC-Light', 'Heiti SC Light', 'Heiti SC';
+  font-weight:200;
+  font-style:normal;
+  font-size:13px;
+  text-decoration:none;
+  color:#1E1E1E;
+  text-align:left;
+}
